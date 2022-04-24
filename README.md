@@ -11,6 +11,15 @@ In this area, you can test and experience the project created within the scope o
     
  3.   Stop Sign or Not Stop Sign
 
+
+## Contact Me
+
+If you have something to say to me please contact me: 
+
+ - Twitter: [Doguilmak](https://twitter.com/Doguilmak)  
+ - Mail address: doguilmak@gmail.com
+ 
+
 ## References
 
 \[1] [Joseph Santarcangelo](https://www.linkedin.com/in/joseph-s-50398b136/?utm_medium=Exinfluencer&utm_source=Nurture&utm_content=000026UJ&utm_term=10006555&utm_id=SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-CV0101EN-Coursera-25797139&utm_email=Email&utm_campaign=PLACEHOLDER) has a PhD in Electrical Engineering, his research focused on using machine learning, signal processing, and computer vision to determine how videos impact human cognition. Joseph has been working for IBM since he completed his PhD.
@@ -26,11 +35,3 @@ In this area, you can test and experience the project created within the scope o
 \[6] Jian, Wushuai, Xueyan Sun, and Shuqian Luo. "Computer-aided diagnosis of breast microcalcifications based on dual-tree complex wavelet transform." Biomedical engineering online 11.1 (2012): 1-12.
 
 \[6] [IBM AI Engineering, Course 3 - Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?specialization=ai-engineer)
-
-
-## Contact Me
-
-If you have something to say to me please contact me: 
-
- - Twitter: [Doguilmak](https://twitter.com/Doguilmak)  
- - Mail address: doguilmak@gmail.com
