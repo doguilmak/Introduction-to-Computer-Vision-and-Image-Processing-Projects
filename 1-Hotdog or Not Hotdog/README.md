@@ -42,6 +42,4 @@ Preprocess our dataset by changing the shape of the image, converting to tensor 
 
 **It may take a few minutes for the page to open. Please wait to complete your classification process.**
 
-Link to test the classifier model:
-
-<a href="https://my-application-6256d4ad85692533c6ebd6e4.mr4ngdkhlwg.eu-gb.codeengine.appdomain.cloud/" target="_blank">Classification via IBM Cloud</a>
+Link to test the classifier model: <a href="https://my-application-6256d4ad85692533c6ebd6e4.mr4ngdkhlwg.eu-gb.codeengine.appdomain.cloud/" target="_blank">Classification via IBM Cloud</a>
