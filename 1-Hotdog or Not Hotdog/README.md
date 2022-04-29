@@ -36,7 +36,7 @@ Preprocess our dataset by changing the shape of the image, converting to tensor 
 ### Plot of Train Cost and Validation Accuracy
 
 <p align="center">
-    <img height="800" src="loss_acc.png"> 
+    <img height="500" width="500" src="loss_acc.png"> 
 </p>
 
 
