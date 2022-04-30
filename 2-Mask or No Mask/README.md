@@ -22,6 +22,6 @@ We uploaded your object detection model configuration which is **MobileNet V1** 
 
 The model that will be trained is the SSD MobileNet architecture. SSD MobileNet models have very small file sizes and can execute very quickly, compromising little accuracy, which makes it perfect for running in the browser.
 
-**It may take a few minutes for the page to open. Please wait to complete your classification process.**
+**It may take a few minutes for the page to open. Please wait to complete your classification process. You need webcam to make prediction on yourself.**
 
 Link to test the classifier model: Link to test the classifier model: <a href="https://mark-or-no-mask-demo-625af0f8856925f4b8ebd897.mr4ngdkhlwg.eu-gb.codeengine.appdomain.cloud/" target="_blank">Classification via IBM Cloud</a>
