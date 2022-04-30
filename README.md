@@ -1,6 +1,6 @@
 # Introduction to Computer Vision and Image Processing Projects
 
-In this area, you can test and experience the project created within the scope of the IBM AI Engineering - Introduction to Computer Vision and Image Processing course. You can get more detailed information by clicking on the file names specified in order. Currently (23/04/22) project content is being prepared. **Due to Honor code, I cannot give detailed information about the project codes.**
+In this area, you can test and experience the project created within the scope of the IBM AI Engineering - Introduction to Computer Vision and Image Processing course. You can get more detailed information by clicking on the file names specified in order. Currently (23/04/22) project content is being prepared. **Due to Honor Code, I cannot give detailed information about the project codes.**
 
 
 ## Files
