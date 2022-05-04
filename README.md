@@ -8,8 +8,6 @@ In this area, you can test and experience the project created within the scope o
  1. Hotdog or Not Hotdog
     
  2.   Mask or No Mask
-    
- 3.   Stop Sign or Not Stop Sign
 
 
 ## Contact Me
